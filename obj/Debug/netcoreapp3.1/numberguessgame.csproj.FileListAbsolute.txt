@@ -1,0 +1,10 @@
+/Users/ayshabintmahmud/numberguessgame/bin/Debug/netcoreapp3.1/numberguessgame.deps.json
+/Users/ayshabintmahmud/numberguessgame/bin/Debug/netcoreapp3.1/numberguessgame.runtimeconfig.json
+/Users/ayshabintmahmud/numberguessgame/bin/Debug/netcoreapp3.1/numberguessgame.runtimeconfig.dev.json
+/Users/ayshabintmahmud/numberguessgame/bin/Debug/netcoreapp3.1/numberguessgame.dll
+/Users/ayshabintmahmud/numberguessgame/bin/Debug/netcoreapp3.1/numberguessgame.pdb
+/Users/ayshabintmahmud/numberguessgame/obj/Debug/netcoreapp3.1/numberguessgame.csprojAssemblyReference.cache
+/Users/ayshabintmahmud/numberguessgame/obj/Debug/netcoreapp3.1/numberguessgame.AssemblyInfoInputs.cache
+/Users/ayshabintmahmud/numberguessgame/obj/Debug/netcoreapp3.1/numberguessgame.AssemblyInfo.cs
+/Users/ayshabintmahmud/numberguessgame/obj/Debug/netcoreapp3.1/numberguessgame.dll
+/Users/ayshabintmahmud/numberguessgame/obj/Debug/netcoreapp3.1/numberguessgame.pdb
